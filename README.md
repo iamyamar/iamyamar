@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Yash Kumar
-- 👀 I’m a Geek
-- 🌱 I’m currently learning MERN Dev
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - kumar.yash9313@gmail.com
 
 <!---
